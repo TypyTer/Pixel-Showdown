@@ -6,11 +6,12 @@ I've just realized I've not made a tuto in order to learn to use is, so, shortly
 There are two players who each have 6 keys to use in the game (it should be used in AZERTY mode):
 
 Player 1 :
-    - direction : Z, Q, S, D
-    - attack / capacity : A, E
+- direction : Z, Q, S, D
+- attack / capacity : A, E
+  
 Player 2 :
-    - direction : 4, 5, 6, 8 (keypad)
-    - attack / capacity : 7, 9 (keypad)
+- direction : 4, 5, 6, 8 (keypad)
+- attack / capacity : 7, 9 (keypad)
 
 At the beginning, you must choose a role with special attack and capacity by using left and right, and down to take the
 selected role. Here is a description of the roles in the order:
